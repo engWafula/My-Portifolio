@@ -1,0 +1,127 @@
+{
+    "main": {
+      "name": "Wafula  Allan   Isaac ",
+      "occupation": "MERN  Stack  Junior Developer",
+      "description": "",
+      "image": "wafula.jpg",
+      "bio": "Hi there! I am Wafula Allan Isaac! I've been coding for over 3 years now. As a Full Stack developer I  have great passion in developing both front end(mobile Apps and web apps) and backend.I decided to take my career in Javascript because one of the trending technologies in the world",
+      "contactmessage": "Get in touch with me",
+      "email": "wafulaallan5@gmail.com",
+      "phone": "+256 708832767",
+      "address": {
+        "street": "Kampala",
+        "city": "Kampala",
+        "state": "",
+        "zip": ""
+      },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/wafula-allan-8a5490204/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/WafulaAllanIsa1",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/engWafula",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Makerere University - UGANDA",
+        "degree": "Bachelor's Degree, Computer Science",
+        "Year of Study ": "2nd year",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Currently working on  a start up",
+        "title": "Student",
+        "years": "May 2019 - Present",
+        "description": "Am working as a front end developer using react js.The project am working on is an ecommerce site ."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "100%"
+      },
+      {
+        "name": "Python",
+        "level": "50%"
+      },
+      {
+        "name": "Git",
+        "level": "45%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "99%"
+      },
+      {
+        "name": "Web Development",
+        "level": "95%"
+      },
+      {
+        "name":"React Native",
+        "level":"95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": ".Post (React JS)",
+        "category": "",
+        "image": "post.png",
+        "url": "https://post-ef723.web.app/"
+      },
+      {
+        "title": "Deno Arts (JS,HTML5)",
+        "category": "",
+        "image": "deno.png",
+        "url": "https://denoartsug.studio/"
+      },
+      {
+        "title": "JG  ENGINEERING (JS,HTML5)",
+        "category": "",
+        "image": "p.png",
+        "url": "https://www.jgengineering.me/"
+      },
+      {
+        "title": "Netflix (React JS)",
+        "category": "",
+        "image": "net.png",
+        "url": "https://netflix-clone-15156.web.app/profile"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Wafula is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Bukenya Kizza Roland"
+      },
+      {
+        "text": "Learning with Wafula has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Sserumanya Charles Junior"
+      }
+    ]
+  }
+}
